@@ -11,6 +11,7 @@ Contains the following basic Unreal Engine blueprint examples.
 - 3rd person character blueprint
 
 **Credits to DevSquad**
+
 Creator of Youtube content
 
 **Youtube reference** - https://www.youtube.com/playlist?list=PLL0cLF8gjBpqRUy7r0DtVY3Fcdgq5Wk-h
