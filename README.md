@@ -7,6 +7,9 @@ Contains the following basic Unreal Engine blueprint examples.
 - If statement
 - For Loop
 - Flip Flip/Toggle 
+- Arrays
+- Structs
+- Enums
 - Setting variables
 - Input mapping
 - 3rd person character blueprint
