@@ -10,3 +10,7 @@ Contains the following basic Unreal Engine blueprint examples.
 - Setting variables
 - 3rd person character blueprint
 
+* Youtube reference - https://www.youtube.com/playlist?list=PLL0cLF8gjBpqRUy7r0DtVY3Fcdgq5Wk-h
+This plalist will walkthrough this content start to finish.
+
+Credits to DevSquad
