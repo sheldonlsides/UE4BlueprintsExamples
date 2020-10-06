@@ -8,5 +8,5 @@ Contains the following basic Unreal Engine blueprint examples.
 - For Loop
 - Flip Flip/Toggle 
 - Setting variables
-- 3rd person character blueprinty
+- 3rd person character blueprint
 
