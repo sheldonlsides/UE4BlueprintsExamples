@@ -8,7 +8,10 @@ Contains the following basic Unreal Engine blueprint examples.
 - For Loop
 - Flip Flip/Toggle 
 - Setting variables
+- Input mapping
 - 3rd person character blueprint
+- Linking camera direction to mouse X,Y vector
+- 3rd person chracter movment
 
 **Credits to DevSquad**
 
