@@ -1,5 +1,12 @@
-# UE4 Blueprints Examples
+# Unreal Engine Blueprints Examples
 
-Unreal Engine 4 - Blueprints sample game
+This code is meant to show the basic of using Blueprints to create game logic.
 
-Implements basic blueprint patterns
+Contains the following basic Unreal Engine blueprint examples.
+
+- If statement
+- For Loop
+- Flip Flip/Toggle 
+- Setting variables
+- 3rd person character blueprinty
+
