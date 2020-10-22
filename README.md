@@ -19,7 +19,7 @@ Contains the following basic Unreal Engine blueprint examples.
 
 Most of the blueprints are in the TutorialCharacter blueprint
 
-**Credits to DevSquad**:Creator of Youtube content
+**Credits to DevSquad**: Creator of Youtube content
 
 **Youtube reference** - https://www.youtube.com/playlist?list=PLL0cLF8gjBpqRUy7r0DtVY3Fcdgq5Wk-h
 This playlist will walkthrough this content start to finish.
